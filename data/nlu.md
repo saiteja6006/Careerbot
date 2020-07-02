@@ -1,0 +1,501 @@
+## intent:greetings
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- good morning
+- good evening
+- Hello
+- Hai!How can I can help you?
+- Hey! whattsup
+- hello dear
+- good afternoon
+- hey there
+- good day
+- happy morning
+- good evening
+- Namasthe
+- Hi, whats going on?
+- Nice to talk to you
+- Hello, what are you doing now
+- Hello, how is everything
+- hi, whats new
+- Hey there, whats up
+- Its a pleasure to talk to you.
+- Hai, hope you are doing well.
+- Hi!Nice to meet you
+- Hai!Please to meet you
+- Heyyy !
+- Hey,Buddy
+- Hello there
+- Hi!Tell me what to do
+- Hey bot
+- Hello Bot
+- Hey mike
+- Hai can u suggest me
+- Career bot?
+- Great to see you
+- Hey boo
+- Its been a while
+- Long time no see
+- Voila
+- hola
+- How are you man
+- Yo
+- Howdy
+- Anyone there
+- Need help?
+- Namskar
+- What can you do
+- Look who it is
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+- Yes!
+- I like it
+- thumbs up
+- I love it
+- yep
+- of course
+- ya
+- yeppers
+- yay
+- aye
+- ok
+- yeah
+- okay
+- alright
+- perfect
+- alrighty
+- affirmative
+- roger that
+- absoluely
+- agreed
+- copy that
+- yup
+- totally
+- very well
+- sounds good
+- definitely
+- certainly
+- indeed
+- fine
+- sure thing
+- yeah, you can do it
+- yes, you can go further with that
+- Undoubtedly
+- Absolutely
+- Indubitably
+- Gladly
+- Sounds good
+- Totally
+- Obviously
+- Surely
+- Fine
+- For sure
+- Sure thing
+- surely you can do that
+- yes you are right
+- absolutely you can proceed 
+- yes you can do that
+- yes you can proceed further
+- yes for sure
+
+## intent:interview
+- What is the best way to prepare for job interview?
+- What are the best online websites for preparation?
+- How to master programming?
+- How to solve quantitative aptitude?
+- Best websites for coding online
+- What are best websites to prepare for Government Exams?
+- Where can I get Technical MCQ'S for preparation?
+- What are most common questions asked by Interviewer?
+- How to face interview?
+- Where can I find previous placement papers?
+- How to excel group discussion?
+- How to improve my communication skills?
+- Tips before going to interview
+- How much time will interview take?
+- How will they test my knowledge?
+- How should I send my Resume?
+- Tips for resume and cover letter
+- How long should my resume be?
+- What are top traits does interviewer look for in a potential candiate?
+- Best books for preparation of aptitude and logical questions 
+- How to behave before interviewer?
+- What are do's and don’t's at interview?
+- How to introduce myself in the interview?
+- Best websites to practice aptitude
+- Best websites for communication
+- Things to carry on the day of interview
+- Oneday before Interview
+- On the day of interview
+- Where to practice JAM?
+- How to connect HR through Linked-In 
+- How many rounds will be in the Interview selection
+- How to impress HR
+- How to manage in tough time at interview
+- How well the candiate should be dressed
+- Interview tips reddit
+- Interview tips Quora
+- Websites to create resume
+- Set right body language
+- Where to find programming questions
+- Best skillset required by any organisation
+- Best apps for interview preparation
+- Best apps for improving communication
+- How to increase LinkedIn connections
+- Best resume templates
+- How to start in group discusion
+
+## intent:exams
+- What is the procedure to apply IELTS?
+- What is the procedure to apply GRE?
+- What is the procedure to apply GATE?
+- What is the procedure to apply BITSAT?
+- What is the procedure to apply RBI Exam?
+- What is the procedure to apply ISRO Exam?
+- What is the procedure to apply CAT?
+- What is the procedure to apply JEE Mains?
+- What is the procedure to apply NEET?
+- What is the procedure to apply Scholorship?
+- What is the validity of GATE score?
+- What is the validity of GRE score
+- What is validity of IELTS score?
+- What is the minium band required for ielts?
+- What are the minium marks required to qualify in GATE?
+- What are entrance exams for government jobs?
+- When will UPSC exam be conducted?
+- Where to find previous gate exam papers?
+- How to prepare for exams?
+- Best way to prepare for exams?
+- Schedule me a best time to prepare for exams?
+- Best coaching institutes for GATE in Hyderabad
+- Cost of ielts exam
+- Cost of Gre exam
+- Cost of GATE exam
+- Best coaching institutes for GRE in Hyderabad
+- What is the helpline number for Gate exam?
+- What is the helpline number for Gre exam?
+- When will be the next Hackothan?
+- When will be the next Kaggle challenge?
+- Where can I get GATE books?
+- Where can I get GRE books?
+- Is online coaching or offline coaching is better?
+- How to write a research paper
+- How to publish a research paper
+- How to read a research paper
+- How to apply Civils Exam
+- How to prepare for Civils
+- How to apply Emcet
+- How to prepare for Emcet
+- Cost of Emcet Exam
+- Average marks for qualifying in emcet
+- Emcet cuttof in Hyderabad Colleges
+- How to prepare for JEE mains
+- Exam pattern of JEE mains
+- Qualifying marks for JEE Mains
+- When will be the Google Hackothan Exam
+- Tips for students before exam day
+- On exam day
+
+## intent:career_help
+- What are the career options in [python](course)?
+- What are the career options in [Java](courser)?
+- What are the career options in [Mobile Development](course)?
+- What are the career options in [Data Science](course)?
+- What are the different streams in [Btech](course)
+- What are the different streams in [MTech](course)?
+- Is doing masters worth it?
+- Career options in [Animation field](course)?
+- Best Deemed Universities for Btech?
+- what are the career options after [btech](course)?
+- what are the career options after [bba](course)
+- what are the career options after [mtech](course)
+- what are the career options after [phd](course)
+- what are the career options after [mbbs](course)
+- what are the career options after [mba](course)
+- which career is more suitable after [mba, starting a company or a job](course)
+- what pays more in [law career](course), [practise or job in law firm](course)
+- what are the different streams in [arts](course) degree
+- which career is best after [bcom](course)
+- career options in [ML field](course)
+- which career will get me a job : [python or java](course)
+- What are the career options for [fresher](course)?
+- What are career options for me after learning [JAVA](course)?
+- Which career path should I choose to get [highest pay](course)?
+- What are the career options after doing [Masters in Telecommunication](course)?
+- Which career should I choose: [Big Data or Data Science](course)?
+- how to get started with a career in [robotics](course)
+- how to get started to pursue a career in [photography](course)
+- how to get started with a career in [arts](course)
+- how to get started with a career in [engineering](course)
+- How to land a good paying job in [India](location)
+- How to land a good paying job in [USA](location)
+- What are career options in [Banking sector](course)
+- What are career options in [Government sectors](course)
+- [Mtech or Masters](course)?
+- [Masters or MBA](course)?
+- Best jobs in 2020
+- How to launch a startup?
+- Top colleges for [robotics](course) in [India](location)
+- Top colleges for [engineering](course) in [Hyderabad](location)
+- What are [job roles](course) in [Nasa](location)
+- What skillset required for IT job?
+- Career options after [Intermediate](course)
+- Career after [hotel management](course)
+- Career in [Aeronautics](course)
+- Does [ethical hacker](course) gets good salary?
+- How to be a [Freelancer](course)?
+- How to get job in google
+- How to get place at Microsoft
+
+## intent:job_details
+- Find me a [CSE Internship](job)?
+- Find me a [ECE Internship](job) in [Hyderabad](location)?
+- Best websites for job search
+- Best websites for applying internships
+- Find me freasher jobs in [CS field](job)
+- Find me a job pakage of above 5lac per annum
+- List vacancies in [Top tier companies](job)
+- Find vacancies in [ISRO](job)
+- Find me [Data analyst](job) jobs in [Hyderabad](location)
+- Best locations in [India](location) for [IT](job) jobs
+- Find jobs with [masters,phd](course) level requirements in [IT sector](job)
+- which are the best cities for a job in [ML](course)
+- [python](course) companies in [ahmedabad](location) for a job
+- find me a job in [web development](course)
+- i want a job of [data entry](job) in [hyderabad](location)
+- find me a job of a [technician](job) in [chennai](location)
+- what are the job options for a [machine learning enthusiast](course)?
+- i specialize in [cyber security](course). list me some jobs
+- list few jobs in [chemical field](job)
+- find me [government job](job) openings in IT field
+- find me a [bank](job) job in [ahmedabad](location)
+- help me find [work from home](job) jobs in [CS field](course)
+- best jobs in [automobile industry](job)
+- top jobs for a [freelancer photographer](job)
+- find me a job of a [professional photographer](job)
+- list few jobs for [MBA](course)
+- top jobs in [MBA](course) in [delhi](location)
+- find me a job for an [architect](job)
+- list top jobs in [architecture](job) in [mumbai](location)
+- the top paying companies in [CS field](course) in [delhi](location)
+- the best job for a [teacher](job)
+- list some jobs for a [professor](job)
+- Vacancies in [DRDO](job)
+- find me job options for a [web developer](course) in [ahmedabad](location)
+- Upcoming [job fairs](job)
+- Jobs in [teaching sector](job)
+- Find me jobs in [Hotel Management](job)
+- Find vacancies in [L&T Service](job)
+- Find jobs in [Healthcare](course) domain
+- Find [BPO](job) jobs in [Hyderabad](location)
+- Find jobs in [Marketing](job) and [sales](job)
+- Find jobs in [Accounting](job)
+- Find jobs with minimum experience of 2 years
+- Find jobs in [Environment](job) domains
+- Jobs in [Social Volunteer](job) work
+- help me find a job in [statistics](course) field
+- help me find a job in [law firm](job)
+- Find [pilot](job) jobs
+- Find [software](course) [trainee](job) jobs
+
+## intent:salary
+- Average [salary](amount) of [Software developer](job) at [Google](location)
+- Average salary of Software developer at Microsoft
+- Highest [paid salary](amount) for [Data scientist](job)
+- Highest paid salary for [Software Devloper](job)
+- Highest Paid salary for [Data Engineer](job)
+- Highest paid jobs in [Python Development](course)
+- Average Salary after [Mtech](course) in CS
+- Average salary after [Masters](course) in CS
+- Average salary after [MBA](course)
+- Average salary after [PHD](course)
+- Average salary after [MBBS](course)
+- Salary of [pilots](job)
+- Average salary of [Software](course)[Trainee](job)
+- Average salary of [HR](job)
+- Highest paid salary in [Government Sector](job)
+- Highest paid salary of [Bank Manger](job)
+- Average paid salary in [Animation](course)
+- Average salary for [Data Architecture](job)
+- Average salary for [Isro Scientist](job)
+- Average salary for [Nasa Scientist](job)
+- Average salary for [Aerospace Engineering](job)
+- Average salary for a [Navy officer](job)
+- Highest paid salary for [Navy officer](job)
+- Average salary for [professor](job) in [IIT's](location)
+- Average salary for [Assitant professor](job) in [ITT's](location)
+- Average salary of [BPO](job) job
+- Average salary of [Army officer](job)
+- Average salry of [Collector](job)
+- Average salary of a [Police officer](job)
+- Highest paid salary in [Google](location)
+- Highest paid salary in Microsoft 
+- Highest paid salary in [Adobe](location)
+- Average salary for a [Docter](job)
+- Average salary for a [game develper](job)
+- Incentives in Biju's
+- Average salary of [Movie editors](job)
+- Annual Income of [Google](location)
+- Annual Income of Microsoft
+- How much [amount](amount) required for a startup
+- How to invest my [salary](amount) wisely
+- Highest paid salary to [CA](job)
+- Average salary for CA
+- Average salary for [Lawyer](job)
+- Average salary for [dentist](job) in [Canada](location)
+- Highest salary for an [EC engineer](job)
+- Highest salary for [app developer](job)
+- How to invest my [salary](amount) in mutual funds
+- Salary of [HOD](job) in Private Universites
+- Average salary of [Biotech Engineer](job)
+
+## intent:reject
+- No
+- none
+- No way
+- nothing
+- terminate
+- Never
+- Not like this
+- This is not for you
+- nope
+- certaintly not
+- rejected
+- not likely
+- Not this way
+- Not like that
+- This option is not for you
+- nah
+- Nothing can happen
+- Not likely that
+- No way for this
+- Nothing like that
+- Never like this
+- Nope for this 
+- Noh way
+- Never like that
+- Never mind
+- Not that way
+- Reject
+- Noh one
+- Never do
+- Not like this
+- Nothing Happens
+- other options please
+- I don't think it is good option
+- Doesn't Sound Good
+- End
+- Not interested
+- I can't do this
+- Avoid
+- I don't like that
+- nah
+- don't do that
+- Sorry
+- I would not do this
+- Not Possible
+- Not desirable option
+- I don't think so
+- I would avoid that
+- I would not prefer that
+- Its not considerable
+
+## intent:study_center
+- Where can Learn [Machine learning](course)
+- Where to get [Tensorflow](course) Books
+- Where to get [Python](course) Books
+- Best websites for [Coding](skill)
+- I want to learn [Flask](course)
+- I want to learn [Django](course)
+- I want to learn [German](course)
+- I want learn [Animation](course)
+- Best books to develop [English](skill)
+- I want to learn [R programming](course)
+- I want to learn [Google Analyitcs](course)
+- What are trending courses in [Cloud](course)
+- How to kickstart [Ethical Hacking](course)
+- I want to learn [Unity](course)
+- I want to learn [C#](course)
+- I want to learn [Git](course)
+- I want to learn about [RASA Framework](course)
+- I want to know about Mean [Stack Developer](course)
+- I want to learn [Android](course)
+- I want to learn [.Net](course)
+- I am looking to learn [Google adwords](course)
+- I want to study [Angular js](course)
+- I want to study [Wordpress Plugin Development](course)
+- I am looking to learn [JQuery](course)
+- I want to learn [HTML](course)
+- I am looking to learn [CSS](course)
+- I want to learn [SQL](course)
+- I am looking to learn [SPSS](course)
+- I want to learn [JavaScript](course)
+- I am looking to learn [Scala](course)
+- I want to learn Swift Language
+- I am looking to learn VB Language
+- I want to learn Photoshop
+- I am looking to learn Android
+- I want to study MS Excel
+- I want to learn Networking
+- I want to study Search Engine Optimization
+- Which book is best to learn Spark?
+- I am looking to Explore in Digital Marketing
+- What are the Trending Course in Machine Learning?
+- Want to learn Data Science from Scratch
+- Want to add Python in my skill
+- Which is the best book to learn Hadoop?
+- I want to learn Database
+- Which book is good to learn Data Structure
+- Show me some courses on Analytics
+- I want to study C
+- I want to study Python
+- I want to learn Data Structures
+
+## intent:career_in_abroad
+- Best country for masters in Cs
+- Best country for MBA
+- Best country for MBBS
+- Minimum Eligibilty for Masters
+- Best websites to search Universites
+- Top few countries to get job
+- Best country to live after education
+- Minimum financial requirements 
+- Opportunites after Masters inUsa
+- Is german language required to settle in germany
+- Best county in Europe for Masters
+- Top states in USA with high salary 
+- OTP in USA
+- OTP IN Australia
+- Top universites in USA
+- Top universites in Canada
+- How to apply Passport
+- How to apply Visa
+- How to apply admission in University
+- Common Visa interview Questions
+- Which is better Fall or spring?
+- What to expect salary after Maters
+- What to expect college life in Abroad
+- Is part time jobs available in USA
+- How much loan does government provide
+- Famous consultancy services in Hyderabad
+- Do I get internsip at Universities
+- Do universites in abroad provide Placements
+- How to get job in Abroad
+
+
+
+## intent:goodbye
+- bye
+- goodbye
+- see you around
+- see you later
+

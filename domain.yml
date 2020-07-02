@@ -1,0 +1,74 @@
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+intents:
+- greetings
+- affirm
+- interview
+- exams
+- career_help
+- job_details
+- salary
+- reject
+- study_center
+- career_in_abroad
+- goodbye
+entities:
+- course
+- location
+- skill
+- job
+- amount
+- courser
+slots:
+  amount:
+    type: text
+  course:
+    type: text
+  job:
+    type: text
+  location:
+    type: text
+  skill:
+    type: text
+responses:
+  utter_greetings:
+  - text: Hey Welcome to CareerBot, how can I help you?
+  utter_study_center:
+  - text: Want to learn this ,we will suggest through mail all the information about
+      it. Please Wait for minute. Thank you
+  utter_exams:
+  - text: Exam details will  be sent through the mail. Thank you, You can refer for
+      [website](https://saitechrack.blogspot.com/) for Study-Material.
+  utter_job_details:
+  - text: Mention your skillset and resume to this [website](https://saitechrack.blogspot.com/), We will match and send
+      you JOBs to your mail.
+  utter_reject:
+  - text: Sorry to hear it,How can I help you?
+  utter_career_help:
+  - text: We are searching suitable career for you, Please wait. We will mail you
+      back.Thankyou
+  utter_salary:
+  - text: We will find all details about this job and mail you back.Thank you
+  utter_interview:
+  - text: You can find all the details about your query in this [website] (https://www.indiabix.com/)
+  utter_affirm:
+  - text: Alright.
+  - text: Gladly.
+  utter_career_in_abroad:
+  - text: Mail to this [website](https://studyabroad.shiksha.com/) of all queries and we will get to you back soon.
+  utter_goodbye:
+  - text: Bye..Take care
+actions:
+- utter_greetings
+- utter_study_center
+- utter_exams
+- utter_job_details
+- utter_reject
+- utter_career_help
+- utter_salary
+- utter_interview
+- utter_affirm
+- utter_career_in_abroad
+- utter_goodbye
+- action_restart
